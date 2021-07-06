@@ -25,6 +25,7 @@ In this notebook, I built a Scikit-Learn linear regression model to predict Yen 
 ![](https://raw.githubusercontent.com/bhatt11z/A-Yen-for-the-Future/main/Screen%20shots/Screenshot%202021-07-05%20at%209.35.45%20PM.png)
 
 - **Linear Regression Model**
+
 ![](https://raw.githubusercontent.com/bhatt11z/A-Yen-for-the-Future/main/Screen%20shots/Screenshot%202021-07-05%20at%209.37.36%20PM.png)
 
 
