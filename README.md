@@ -4,6 +4,7 @@
 - Yahoo finance API
 - Python
 
+## Analysis
 
 ## Timeseries
 
